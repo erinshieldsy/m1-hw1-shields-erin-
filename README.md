@@ -1,3 +1,14 @@
-# Heading 1 # My First Coding Assignment
-> ![picture alt](https://stock-apex-images-prod-ew1.s3.eu-west-1.amazonaws.com/cba9c73711891e81592b3290604a2898ae44ba88ae87a0c331d489e00b8d1308.jpg?response-content-disposition=attachment%3B%20filename%3D%22AdobeStock_562833814_Preview.jpeg%22&response-content-type=image%2Fjpeg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUMGGMQGEW54NEAVB%2F20230524%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230524T014838Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=89c8cdc0bee753a6367a4f19b15e6c6343fd6ee295b47996f6e22035626b1918, https://stock.adobe.com/ "Hey it's me.:)")
+# My First Coding Assignment # 
+> ![picture alt](https://stock.adobe.com/search?k=cat+with+coffee&search_type=usertyped&asset_id=562833814/200x150 "Hey it's me. :)")
 
+## About Me ## 
+My name is Erin Shields and I'm passionate about marketing, graphic design, photography and of course: coffee. 
+I am a marketing coordinator at a car wash manufacturing company where I can work on social media, graphic design, analytics and more.
+
+## Past Coding Experience  ##
+I have studied basic html in a few past classes but I've never gone deep into coding. I'm excited to expand my knowledge of computing as I take on learning code. 
+
+## Career Goals  ##
+1. Become proficient at conducting marketing strategies and campaigns
+2. Expand my graphic design and video editing skills 
+3. Become a marketing manager  
