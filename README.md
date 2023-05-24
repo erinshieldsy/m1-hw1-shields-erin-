@@ -1,5 +1,5 @@
 # My First Coding Assignment # 
-> ![picture alt](https://stock.adobe.com/search?k=cat+with+coffee&search_type=usertyped&asset_id=562833814/200x150 "Hey it's me. :)")
+> ![picture alt](https://stock.adobe.com/search?k=cat+with+coffee&search_type=usertyped&asset_id=562833814/) "Hey it's me. :)")
 
 ## About Me ## 
 My name is Erin Shields and I'm passionate about marketing, graphic design, photography and of course: coffee. 
