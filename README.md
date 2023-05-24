@@ -1,1 +1,3 @@
-# m1-hw1-shields-erin-
+# Heading 1 # My First Coding Assignment
+> ![picture alt](https://stock-apex-images-prod-ew1.s3.eu-west-1.amazonaws.com/cba9c73711891e81592b3290604a2898ae44ba88ae87a0c331d489e00b8d1308.jpg?response-content-disposition=attachment%3B%20filename%3D%22AdobeStock_562833814_Preview.jpeg%22&response-content-type=image%2Fjpeg&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUMGGMQGEW54NEAVB%2F20230524%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20230524T014838Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=89c8cdc0bee753a6367a4f19b15e6c6343fd6ee295b47996f6e22035626b1918, https://stock.adobe.com/ "Hey it's me.:)")
+
